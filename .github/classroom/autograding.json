@@ -1,0 +1,94 @@
+{
+  "tests": [
+    {
+      "name": "ReservaTest.testGetValorTotal",
+      "setup": "",
+      "run": "gradle test --tests \"ReservaTest.testGetValorTotal\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "ContaBancariaTest.testDepositar",
+      "setup": "",
+      "run": "gradle test --tests \"ContaBancariaTest.testDepositar\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "ContaBancariaTest.testSacar",
+      "setup": "",
+      "run": "gradle test --tests \"ContaBancariaTest.testSacar\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "ContaBancariaTest.testDepositarEmSaldoNegativo",
+      "setup": "",
+      "run": "gradle test --tests \"ContaBancariaTest.testDepositarEmSaldoNegativo\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "PersonagemTest.testCriacao",
+      "setup": "",
+      "run": "gradle test --tests \"PersonagemTest.testCriacao\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "PersonagemTest.testSofrerDanoERecuperarSaude",
+      "setup": "",
+      "run": "gradle test --tests \"PersonagemTest.testSofrerDanoERecuperarSaude\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "ReservaTest.testReservar",
+      "setup": "",
+      "run": "gradle test --tests \"ReservaTest.testReservar\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "PostagemTest.testCurtidas",
+      "setup": "",
+      "run": "gradle test --tests \"PostagemTest.testCurtidas\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "PostagemTest.testCriacao",
+      "setup": "",
+      "run": "gradle test --tests \"PostagemTest.testCriacao\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
